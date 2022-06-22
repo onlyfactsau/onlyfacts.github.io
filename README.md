@@ -4,9 +4,17 @@ A fact tank. Not a think tank.
 
 # Health
 
-## Latest Deaths
+## Latest COVID Deaths
 
-![](Outputs/2022-06-21-CumulativeDeaths.png)
+[![](Outputs/2022-06-21-CumulativeDeaths.png)](Outputs/2022-06-21-CumulativeDeaths.png)
+
+| Greater Sydney                                | Regional NSW                                       |
+|-----------------------------------------------|----------------------------------------------------|
+| ![](Outputs/Latest-Sydney-HeatMap-14Days.png) | ![](Outputs/Latest-RegionalNSW-HeatMap-14Days.png) |
+
+## Cases per Population
+
+![](Outputs/Latest-NSW-SocialDistance.png)
 
 # Energy
 
